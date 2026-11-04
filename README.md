@@ -12,6 +12,5 @@ conda activate orc-wfs
 python sub_1plv.py
 ```
 
-The script has been written using Spyder as IDE and Anaconda as the Python distribution and package manager. Tne above lines are needed to reproduce the minimal correct setup to run the code
+The script has been written using Spyder as IDE and Anaconda as the Python distribution and package manager. Tne above lines are needed to reproduce the minimal correct setup to run the code and should be run in the Anaconda Prompt terminal.
 
-Some earlier CoolProp version can fail!
